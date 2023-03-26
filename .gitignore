@@ -1,1 +1,8 @@
 chatgpt.apikey.txt
+MINERALs.json
+failed-parsing.txt
+py/__pycache__/gpt4.cpython-311.pyc
+py/__pycache__/material.cpython-311.pyc
+py/__pycache__/materialsEnums.cpython-311.pyc
+py/__pycache__/materialsGenerator.cpython-311.pyc
+py/test.py
